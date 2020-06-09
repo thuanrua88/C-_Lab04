@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\bin\Debug\Dimension.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\bin\Debug\Dimension.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\bin\Debug\Dimension.pdb
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\obj\Debug\Dimension.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\obj\Debug\Dimension.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\obj\Debug\Dimension.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Dimension\Dimension\obj\Debug\Dimension.pdb

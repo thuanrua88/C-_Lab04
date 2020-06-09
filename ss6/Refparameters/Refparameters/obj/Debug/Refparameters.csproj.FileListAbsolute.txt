@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\bin\Debug\Refparameters.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\bin\Debug\Refparameters.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\bin\Debug\Refparameters.pdb
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\obj\Debug\Refparameters.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\obj\Debug\Refparameters.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\obj\Debug\Refparameters.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Refparameters\Refparameters\obj\Debug\Refparameters.pdb

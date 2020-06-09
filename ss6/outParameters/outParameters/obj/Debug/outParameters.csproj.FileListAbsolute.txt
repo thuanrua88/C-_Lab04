@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\bin\Debug\outParameters.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\bin\Debug\outParameters.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\bin\Debug\outParameters.pdb
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\obj\Debug\outParameters.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\obj\Debug\outParameters.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\obj\Debug\outParameters.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\outParameters\outParameters\obj\Debug\outParameters.pdb

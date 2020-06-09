@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\bin\Debug\product.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\bin\Debug\product.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\bin\Debug\product.pdb
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\obj\Debug\product.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\product\product\obj\Debug\product.pdb

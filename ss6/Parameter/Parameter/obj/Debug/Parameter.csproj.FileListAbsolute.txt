@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\bin\Debug\Parameter.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\bin\Debug\Parameter.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\bin\Debug\Parameter.pdb
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\obj\Debug\Parameter.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\obj\Debug\Parameter.exe
+C:\Users\Pc\Desktop\C#\C#\ss6\Parameter\Parameter\obj\Debug\Parameter.pdb
